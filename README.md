@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/993704774.svg)](https://doi.org/10.5281/zenodo.17491268)
+
 # Mas-Process-Discovery
 
 This is the accompanying repository for the paper "Business Process Discovery through Agentic Generative AI" in ICSOC 2025, containing all data and analysis code for multi-agent system process discovery experiments.
