@@ -44,14 +44,13 @@ For each experimental run, you'll find:
 - **`data/<use-case>/artifacts/conversation.txt`** - Human-readable summary of the conversation
 
 ### Generated Artifacts
-- **`data/<use-case>/artifacts/`** folder containing all generated files, like the process models as well as the failure analysis
+- **`data/<use-case>/artifacts/`** folder containing all generated files, like the process models, as well as the failure analysis
 
 ### Statistics
 - **Agent-level metrics**:
   - Prompt tokens used
   - Completion tokens generated
-  - Number of invocations
-  - 
+  - Number of invocations 
 ## Detailed Information about the Expriment Design 
 
 See **experiment_info.pdf** for more information about the experiments  
